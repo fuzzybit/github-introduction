@@ -20,10 +20,10 @@ _Get started using GitHub in less than an hour._
 
 <details id=0 open>
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
+People use Git to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
 
 - **Who you are**: New developer, new GitHub user, and student.
-- **What you'll learn**: Introduce repositories, branches, commits, and pull requests.
+- **What you'll learn**: Introduction to repositories, branches, commits, and pull requests.
 - **What you'll build**: A short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 - **Prerequisites**: A GitHub account.
 - **How long**: This introduction is four steps taking less than one hour to complete.
